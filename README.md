@@ -44,8 +44,8 @@ O banco de dados e os arquivos PDF são gerados automaticamente durante a utiliz
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/7complex/marmita
+cd marmita
 ```
 
 ### 2. Instale as dependências
@@ -138,4 +138,4 @@ Projeto em desenvolvimento.
 
 ## Licença
 
-Este projeto ainda não possui uma licença definida.
+MIT
